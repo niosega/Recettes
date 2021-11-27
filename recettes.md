@@ -13,6 +13,12 @@ linkcolor: blue
 ## Entrée
 
 ## Plat
+### Appareil à quiche
+|        |                |
+|--------|----------------|
+| 250mL  | lait végétal   |
+| 4      | oeufs          |
+| 2 cas  | maizena        |
 
 ### tartiflette
 
